@@ -28,5 +28,9 @@ install docker-compose (linux)
    sudo chmod +x /usr/local/bin/docker-compose
 
    docker-compose version
+
+install git ( ubuntu)
+   sudo apt update
+   sudo apt install git
 ```
 
